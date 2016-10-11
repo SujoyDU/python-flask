@@ -22,6 +22,7 @@ This project is for learning flask architecture and having basic grasp of python
 
 #output:
   * serving Flask app "APP"
-  *Runninjg on http://127.0.0.1:5000/
+  
+  * Running on http://127.0.0.1:5000/
 
 
